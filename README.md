@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a react developer
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
